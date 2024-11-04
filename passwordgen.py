@@ -6,27 +6,27 @@ alphabet = list(text)
 list = random.sample(alphabet, k=20)
 password = ''.join(list)
 
-print("heres your password:", password)
+print("Here's your password:", password)
 
-retry = input('do you want to retry? y/n ')
+retry = input('Do you want to retry? y/n ')
 
 if retry == 'y':
-    print("heres your password:", password)
+    print("Here's your password:", password)
 
-    copy = input('do you want to copy it? y/n ')
+    copy = input('Do you want to copy it? y/n ')
     if copy == 'y':
         pyperclip.copy(password)
-        print('copied it.')
+        print('Copied.')
         input('Press enter to quit.')
         quit()
     else:
         input('Press enter to quit.')
         quit()
 else:
-    copy = input('do you want to copy it? y/n ')
+    copy = input('Do you want to copy it? y/n ')
     if copy == 'y':
         pyperclip.copy(password)
-        print('copied it.')
+        print('Copied.')
         input('Press enter to quit.')
         quit()
     else:
