@@ -1,5 +1,5 @@
 ([('passwordgen.exe',
-   'C:\\Users\\cskok\\Desktop\\pypy\\build\\passwordgen\\passwordgen.exe',
+   'C:\\Users\\cskok\\Documents\\GitHub\\password-generator\\build\\passwordgen\\passwordgen.exe',
    'EXECUTABLE'),
   ('python39.dll',
    'C:\\Users\\cskok\\AppData\\Local\\Programs\\Python\\Python39-32\\python39.dll',
@@ -38,5 +38,5 @@
    'C:\\Users\\cskok\\AppData\\Local\\Programs\\Python\\Python39-32\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\cskok\\Desktop\\pypy\\build\\passwordgen\\base_library.zip',
+   'C:\\Users\\cskok\\Documents\\GitHub\\password-generator\\build\\passwordgen\\base_library.zip',
    'DATA')],)
